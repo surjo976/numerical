@@ -1,4 +1,5 @@
 # Defining Function
+#Using Relative Error
 def f(x):
     return 4*(x**3) - 6 * (x**2) +7*x-2.3
 
